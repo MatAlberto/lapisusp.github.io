@@ -1,4 +1,4 @@
-﻿---
+---
 order: 2
 layout: member
 name: Matheus Alberto de Oliveira Ribeiro
